@@ -51,3 +51,22 @@ header img{
     color: #ffffff;
     font-size: 1.2em;
 }
+
+#extra{
+    background-color: #F6F0E0;
+}
+
+#footer a{
+    text-decoration: none;
+    color: #ffffff;
+}
+#footer{
+    background-color: #F6F0E0;
+    height: 100%;
+    margin: 0;
+    background-image: url("../img/footer.jpg");
+}
+#footer h2{
+    color: #ffffff;
+    text-align: center;
+}
