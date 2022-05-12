@@ -65,8 +65,9 @@ header img{
     height: 100%;
     margin: 0;
     background-image: url("../img/footer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: bold;
+    font-size: 1.2em;
 }
-#footer h2{
-    color: #ffffff;
-    text-align: center;
-}
+
