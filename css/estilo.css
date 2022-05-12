@@ -18,3 +18,9 @@ header img {
     width: 100%;
     box-shadow: 0 0 10px #000000;
 }
+
+#container{
+    margin: 10%;
+    width: 100%;
+    text-align: left;
+}
