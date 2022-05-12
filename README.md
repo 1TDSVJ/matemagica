@@ -1,9 +1,9 @@
 
-1TDS
-CP2 - CSS/HTML(MATEMÁGICAS)
-CHECKPOINT 2 - 2022
+# 1TDS
+## CP2 - CSS/HTML(MATEMÁGICAS)
+### CHECKPOINT 2 - 2022
 
-Regras:
+## Regras:
 •	O CP2 será realizado em sala de aula.
 •	Os alunos poderão consultar suas anotações apenas.
 •	A avaliação será realizada em grupo( o grupo do challenger é obrigatório).
@@ -20,22 +20,22 @@ Objetivo:
 •	O seu dever é criar a página e chegar em um resultado próximo ou igual ao da imagem abaixo.
 
  
-Todas as imagens serão disponibilizadas.
-A lista de cores utilizadas na página acima é essa:
+## Todas as imagens serão disponibilizadas.
+### A lista de cores utilizadas na página acima é essa:
 •	#FFFFFF;
 •	#000000;
 •	#F6F0E0;
 •	#0b340b;
 •	#310606;
 •	#BFBD93;
-Critérios:
+## Critérios:
 
 •	Criação do projeto com arquivos. (5 Pontos)
 •	Aplicação de boas práticas.( nomenclatura de arquivos, estrutura html e css, semântica). (15 Pontos)
 •	Estrutura HTML. (40 Pontos)
 •	Estilização CSS3. (40 Pontos)
 
-Estrutura:
+## Estrutura:
 A estrutura consiste no seguinte:
 CONTAINER
 - Elemento que envolve todo o conteúdo e leva um atributo id de nome container.
@@ -64,7 +64,7 @@ RODAPÉ
 - (03) Elemento de parágrafo envolvendo um elemento de âncora que faz referência para “#” que envolve um elemento de imagem que faz referência para a imagem(github.png, facebook.png e twitter.png), respectivamente.
 - Elemento de parágrafo fora da estrutura acima com o seguinte texto: Company (símbolo de copyright)2021, envolvendo um elemento der âncora que faz referência para “#” com o texto “Contato”.
 Entrega:
-A entrega deve seguir o seguinte processo:
+## A entrega deve seguir o seguinte processo:
 •	Todo trabalho deverá ser sincronizado com um repositório remoto no github e deve conter no mínimo 1 commit de cada integrante do grupo.
 •	Deve ser dada permissão ao usuário alecarlosjesus a esse repositório.
 •	Compactar o repositório do projeto juntamente com um arquivo txt com o nome do grupo e nome de cada integrante e rm e submeter para o TEAMs.
