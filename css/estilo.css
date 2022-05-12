@@ -1,10 +1,13 @@
 
+
 body{
     font-size: 75%;
     font-family: Arial, sans-serif;
     text-align: center;
 }
 
+
+/* CABEÇALHO */
 header h1{
     color: #FFFFFF;
     font-size: 4em;
@@ -18,7 +21,15 @@ header img{
     width: 100%;
     box-shadow: 0 0 10px #000000;
 }
+/* CABEÇALHO */
 
+/* CONTAINER */
+    #container{
+        margin: 10%;
+        width: 100%;
+        text-align: left;
+    }
+/* CONTAINER */
 
 
 
