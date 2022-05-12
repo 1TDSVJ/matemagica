@@ -1,7 +1,88 @@
-
+/*CABEÇALHO*/
 body {
-    font-size: 75%;
+    font-size: 75%; /*75% dos 16px padrão*/
     font-family: Arial, sans-serif;
     text-align: center;
 }
 
+header h1 {
+    color: #ffffff;
+    font-size: 4em; /*Font size header h1 é relativo ao font size do body (responsividade)*/ /*4 em significa 4 de 75% do body*/
+    display: inline; /*ocupa apenas o espaço do seu conteúdo*/
+    position: absolute; 
+    text-shadow: 0 0 5px #ffffff;
+    line-height: 8%;
+}
+
+header img {
+    width: 100%;
+    box-shadow: 0 0 10px #000000;
+}
+/*CABEÇALHO*/
+
+/*CONTAINER*/
+    #container {
+        margin: 10%;
+        width: 100%;
+        text-align: left;
+    }
+/*CONTAINER*/
+
+/*CONTEÚDO*/
+    #content p {
+        line-height: 1.5em;
+    }
+/*CONTEÚDO*/
+
+/*NAVIGATION*/
+    #navigation .tit-sub {
+        text-align: center;
+    }
+    #navigation {
+        background-color: #f6f0e0;
+    }
+    #navigation ul li {
+        margin-bottom: 5px;
+        background-color: #0b340b;
+        border: 2px solid #310606;
+    }
+    #navigation ul {
+        margin: 15px;
+        padding: 0;
+        list-style-type: none;
+    }
+
+    #navigation ul li a {
+        display: block;
+        padding: 5px;
+        text-decoration: none;
+        color: #ffffff;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+/*NAVIGATION*/
+
+/*EXTRA*/
+    #extra {
+        background-color: #f6f0e0; 
+    }
+/*EXTRA*/
+
+/*FOOTER*/
+    #footer a {
+        text-decoration: none;
+        color: #ffffff;
+    }
+
+    #footer {
+        background-color: #f6f0e0; /*Mesmo background que os outros, pois caso estore a img, fica tudo igual*/
+        height: 100%;
+        margin: 0;
+        color: #ffffff;
+        font-size: 1.2em;
+        font-weight: bold;
+        background-image: url('../img/footer.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+/*FOOTER*/
