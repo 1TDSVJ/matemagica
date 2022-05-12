@@ -31,6 +31,42 @@ header img{
     }
 /* CONTAINER */
 
+/* CONTENT */
+    #content p{
+        line-height: 1.5em;
+    }
+/* CONTENT */
+
+/* NAVIGATION */
+    #navigation .tit-sub{
+        text-align: center;
+    }
+    #navigation{
+        background-color: #F6F0E0; 
+    }
+
+    #navigation ul li{
+        margin-bottom: 5px;
+        background-color: #0b340b;
+        border: 2px solid #310606;;
+    }
+
+    #navigation ul{
+        margin: 15px;
+        padding: 0;
+        list-style-type:none; 
+    }
+
+    #navigation ul li a{
+        display: block;
+        padding: 5px;
+        text-decoration: none;
+        color: #FFFFFF;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+/* NAVIGATION */
 
 
 
