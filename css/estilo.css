@@ -3,3 +3,17 @@ body{
     font-family: Arial, sans-serif;
     text-align: center;
 }
+
+header h1{
+    color: #ffffff;
+    font-size: 4em;
+    display: inline;
+    position:absolute;
+    text-shadow: 0 0 5px #ffffff;
+    line-height: 6%;
+}
+
+header img{
+    width: 100%;
+    box-shadow: 0 0 10px #000000;
+}
